@@ -1,1 +1,4 @@
-The first entry in my blog.
+---
+title: "Awesome Blog"
+date: 2019-01-25
+---

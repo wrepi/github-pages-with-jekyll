@@ -1,7 +1,7 @@
 title: My first homepage
 author: wrepi
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   My first homepage! It will be an awesome page :)
 
 # social links
@@ -10,4 +10,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima #jekyll-theme-midnight
+theme: minima
